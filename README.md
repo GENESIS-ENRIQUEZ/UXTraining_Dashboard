@@ -263,7 +263,7 @@ Se realizó un card sorting con la usuaria para que eligiera el color y tipograf
 
 **Master Graphic**
 
-![Master Graphic](https://ibb.co/rsWz7Cv)
+![Master Graphic](https://i.ibb.co/wCQ8bJP/Burger-Queen-Dashboard-2.jpg)
 
 **Arquitectura de la información**
 
@@ -297,9 +297,9 @@ No le gustan las historias clínicas, por lo que la información del paciente de
 
 ## Wireframe
 
-![Wireframe 1](https://ibb.co/nQYGyVC)
+![Wireframe 1](https://i.ibb.co/9cX9qZT/Captura-de-pantalla-2019-05-06-a-la-s-11-01-33.png)
 
-![Wireframe 2](https://ibb.co/KmKf19H)
+![Wireframe 2](https://i.ibb.co/HrpCKM1/Captura-de-pantalla-2019-05-06-a-la-s-11-01-43.png)
 
 ## Prototipo de alta fidelidad
 
