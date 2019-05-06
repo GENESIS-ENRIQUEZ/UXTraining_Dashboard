@@ -263,7 +263,7 @@ Se realizó un card sorting con la usuaria para que eligiera el color y tipograf
 
 **Master Graphic**
 
-![Master Graphic](https://i.ibb.co/2WL81S0/Master-Graphic-Board.jpg)
+![Master Graphic](https://i.ibb.co/VYPchPM/Master-Graphic-Board2.jpg)
 
 **Arquitectura de la información**
 
