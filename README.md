@@ -4,6 +4,10 @@ De que manera podemos controlar, medir y rastear lo que sucede en el negocio de 
 
 En este proyecto, nos gustaría que trabajes en este reto de diseño para lo cual tendrás 2 semanas para trabajar en el reto y 5 minutos para presentarlo.
 
+## Planeación
+
+Sí deses visualizar el tablero de planeación, da click [aquí](https://trello.com/b/SoCMzsdj/dashboard-ui)
+
 # Research Project Dashboard Freelance
 
 ## ¿Qué es un Dashboard o cuadro de mando?
@@ -150,6 +154,175 @@ Referencias:
 [Artículo: Indicadores de gestión ¿Qué es un KPI?](https://robertoespinosa.es/2016/09/08/indicadores-de-gestion-que-es-kpi/)
 [Freelance. Wikipedia](https://es.wikipedia.org/wiki/Freelance)
 [Artículo. Evaluando tu negocio freelancer utilizando indicadores clave de rendimiento (KPIs). Freelancermap](https://www.freelancermap.com/freelancer-tips/es/10876-evaluando-tu-negocio-freelancer-utilizando-indicadores-clave-de-rendimiento-kpis)
+
+# Planeación entrevista usuaria
+
+## Entrevista Angélica González, psicoterapeuta.
+
+**Audio entrevista completa [aquí](https://drive.google.com/file/d/1JoibWYL0OZGPfLofoiZ9jD_osE_Q0a17/view?usp=sharing)**
+
+**Objetivo:**
+
+Corto plazo, 3 meses
+1) Aumentar porcentaje pacientes (9 mínimo)
+Reducir la estadía a tres meses, terapia breve
+
+Mediano plazo, 6 meses
+2) Cursar maestría, tanatología
+
+**¿Atraerias de manera diferente a tus pacientes?**
+
+Angelica: Si, tengo el proyecto de tener mi propio espacio y hacer publicidad por redes sociales o volanteo y poder canalizarlos a este espacio
+
+**¿Cómo determinas cuando un paciente se puede dar de alta?**
+
+Angelica: de alguna forma tu vas viendo la evolución de la person,a los pacientes tienen cambios significativos, cuando ya no reinciden… te pongo un ejemplo, el diálogo con ellos cambian de cómo llegan a cuando va pasando el tiempo. El vínculo cambio y es cuando decido espaciar las sesiones que regularmente son 1 semanalmente a una cada quince días. Se nota en la postura, en lo que conversan.
+
+**¿Tienes un perfil de pacientes?**
+
+Los pacientes que llegan a mi son por temas de pareja y por enfermedades terminales, ambos son duelos. Oscilan entre los 28 y cuarenta, los primeros y los terminales son personas por encima de los 55 años.
+
+**Sí tuvieras una varita mágica, ¿cómo la utilizarías para tu proyecto?**
+
+Angelica: de inicio el espacio, un espacio que cuente con un lugar donde puedas recibir a pacientes aunque sea de manera simbólica y que no tenga que pagar renta
+
+**¿Ves viable o rentable continuar con los pacientes en modalidad simbólica?**
+
+Angelica: Por filantropía por dar servicio, si mientras se comprometan. Porque tengo que invertir de mi tiempo y a veces no hay compromiso
+
+**¿Cuál es la mayor satisfacción que te ha dado el brindar terapia?**
+
+Angelica: Ver a una persona que durante años ha lidiado con la idea de que se va morir y que no ha corregido con sus padres, que también tienen una condición el hecho de que me abrace y me digo en cualquier momento puedo irme de este mundo tranquila porque ya perdone y te agradezco que me hayas enseñado. Ver a un ser humano que se reconstruye y puede tener la libertad de pensamientO. Es saber que eres un canal para que un ser humano retome su bienestar.
+
+**¿Cómo llevas el seguimiento de tus pacientes, cómo administrar ese tema?**
+
+Angelica: Regularmente los anoto, sinceramente no soy de historia clínica, a menos que sean patológicos. Pero si tengo el criterio de saber el día de la consulta, me anticipo al trabajo que deje. Honestamente me fio de mi memoria porque no he encontrado la manera de administrar eso, me gustaría una agenda electrónica en la cual yo agregaría los puntos básicos y que me recordara a media semana el proceso de esa persona.
+
+**¿Qué crees que es lo más difícil de ser terapeuta?**
+
+Angelica: Desmenuzar, tomar la radiografía del ser que tienes frente a ti. No hacer proyecciones sobre ellos, no dar consejos, poner el límite de que tu eres profesionista, saber centrarte de que el tema es del otro. Lo que implica mayor ciencia es de cuando yo te regreso lo que me diste, no lo tomes como consejo.
+
+**¿Qué es lo que más te gusta de ser terapeuta?**
+
+Angelica: Literalmente amo ser psicóloga, amo el hecho de poder brindar un servicios a alguien, hacer algo por una persona que sepa y haga conciencia de lo valioso que es estar en este momento.
+
+**¿Alrededor de la gente que te rodea qué opinan ellos y cuál es tu percepción?**
+
+Angelica: A veces se cree que con una sesión o dos se van arreglar los problemas. Es el hecho de decir cuánto me cobras y siempre lo ven elevado peros i invierten en otras cosas más dinero. Todos quieren contarme sus problemas y quieren la sesión gratis. Inviertes en estudiar y sigues preparándote y creo que no es correcto.
+
+**¿Cuál es la percepción de tus colegas?**
+
+Angelica: Yo creo que tiene que ver el lugar donde te desarrollas y también el estatus, porque por ejemplo tengo una colega que da terapia en satélite y bueno es su manera de trabajar y tiene pacientes cautivos
+
+Para visualizar la data recolectada con la usuaria, da click [aquí](https://docs.google.com/spreadsheets/d/1wZRdfdGpzaUK56gvNuNq0r0iZ-vnEINfk9Orpnj2rMw/edit?usp=sharing)
+
+## Empatización
+
+![Mapa de Empatía](https://i.ibb.co/HV7tkmp/Captura-de-pantalla-2019-05-01-a-la-s-22-46-42.png)
+
+![Journey del paciente](https://i.ibb.co/pjFs8vC/Captura-de-pantalla-2019-05-01-a-la-s-22-46-51.png)
+
+## Determinando KPI’S 
+
+- ¿Qué queremos medir?
+La cantidad de pacientes que ha tenido en el segundo semestre del años pasado vs los que tiene actualmente. Cuántos de ellos tienen terapias breves y cómo llegan a ella
+Si es rentable para ella continuar :
+Dando terapia simbólica
+Sus gastos vs sus ingresos
+Las horas que invierte en estos pacientes
+- ¿Por qué medimos este dato?
+El primero porque se alinea con los objetivos que tiene, ella busca aumentar la población de pacientes y reducir a los pacientes cautivos. Por otro lado, cuando se tuvo la entrevista con la usuario, se intuyó uno de sus pains que es no tener una cuota fija y el hecho de que el porcentaje de los pacientes con terapia simbólica es alto, por lo que ella no ve remuneración.
+- ¿Es un factor clave para la empresa?
+Si, porque esto se ve reflejado en sus ingresos.
+- ¿Quién es el responsable de supervisarlo?
+Angelica Gonzalez
+- ¿Con qué periodicidad conviene supervisarlo?
+Mensual
+
+## Diseño del Dashboard
+
+**Psicología del color**
+
+Con base en la pasicología del color, se escogió el siguiente:
+
+![Psicología del color](https://i.ibb.co/f8RVjyH/Captura-de-pantalla-2019-05-02-a-la-s-09-27-35.png)
+
+**Card Sorting**
+
+Se realizó un card sorting con la usuaria para que eligiera el color y tipografía que le gustara.
+
+- Paleta de Colores
+
+![Color](https://i.ibb.co/9T6VwZy/Captura-de-pantalla-2019-05-06-a-la-s-10-52-25.png)
+
+![Paleta de Color](https://i.ibb.co/r7j7zP9/Captura-de-pantalla-2019-05-06-a-la-s-10-52-55.png)
+
+- Tipografía
+
+![Card sorting Tipografía](https://i.ibb.co/G0GDzwV/Captura-de-pantalla-2019-05-06-a-la-s-10-49-33.png)
+
+**Master Graphic**
+
+![Master Graphic](https://ibb.co/rsWz7Cv)
+
+**Arquitectura de la información**
+
+Información que es relevante:
+Agenda
+Login: correo
+Pacientes pequeño informe que se verá la siguiente sesión con base en trabajo que se acordó realizar
+Cómo va ir ingresando esta data conforme aumente su población de pacientes
+Notificaciones
+Enviar alerts recordando citas 
+Apartado de objetivos
+Icono de whatsapp que direccione a aplicación
+Próximas citas
+KPIS:
+- Cantidad de pacientes
+- Promedio duración de la terapia de estos pacientes
+- Porcentaje de avance por paciente
+
+Log out
+
+## Flujo de la aplicación
+
+
+**Consideraciones UI para usuaria**
+
+Debilidad visual / Utilizar tipografía grande
+Utiliza mayormente su celular para contacto con pacientes, sin embargo validar que tan cómodo resulta tener agenda en el celular
+Manejo intuitivo de aplicación, validar la utilización de iconos
+Aplicaciones que más utiliza: facebook, whatsapp e instagram. Outlook y iCalendar
+No le gustan las historias clínicas, por lo que la información del paciente debe ser útil para recordar tareas de la siguiente sesión
+
+## Wireframe
+
+![Wireframe 1](https://ibb.co/nQYGyVC)
+
+![Wireframe 2](https://ibb.co/KmKf19H)
+
+## Prototipo de alta fidelidad
+
+## Testing
+
+## Iteración
+
+## Presentación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
