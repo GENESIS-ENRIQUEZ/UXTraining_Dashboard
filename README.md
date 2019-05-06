@@ -41,6 +41,15 @@ Existen muchos tipos de dashboards y todos ellos tienen objetivos diferentes, ta
 - Influencia de un perfil en redes sociales
 - Tráfico de una página web
 
+# Tipos de Dashboards
+
+- Dashboard de ventas - CRM Dashboard
+
+Refleja la información más relevante en cuanto la actividad comercial o el negocio se refiere.Visualizar en tiempo real en un dashboard datos tan interesantes como el total de presupuestos enviados, el total de clientes que se visitan por día, la duración media de la visita o la rentabilidad de cada uno de los comerciales, es posible.
+
+![Dashboard ventas](https://i.ibb.co/r0FsMyG/Captura-de-pantalla-2019-04-29-a-la-s-15-55-14.png)
+
+
 
 
 
