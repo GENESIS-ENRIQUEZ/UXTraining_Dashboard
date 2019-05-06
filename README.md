@@ -144,12 +144,12 @@ Otros indicadores claves podrían ser:
 
 Referencias:
 
-![Artículo: Tipos de dashboards o cuadros de mandos. ZEUS](http://datablog.zeus.vision/2017/09/21/tipos-de-dashboard-cuadros-de-mando/)
-![Artículo:  Concepto de Dashboard. NeoAttack](https://neoattack.com/neowiki/dashboard/)
-![Artículo: ¿Qué es un dashboard? . ZEUS](http://datablog.zeus.vision/2017/05/16/que-es-un-dashboard/)
-![Artículo: Indicadores de gestión ¿Qué es un KPI?](https://robertoespinosa.es/2016/09/08/indicadores-de-gestion-que-es-kpi/)
-![Freelance. Wikipedia](https://es.wikipedia.org/wiki/Freelance)
-![Artículo. Evaluando tu negocio freelancer utilizando indicadores clave de rendimiento (KPIs). Freelancermap](https://www.freelancermap.com/freelancer-tips/es/10876-evaluando-tu-negocio-freelancer-utilizando-indicadores-clave-de-rendimiento-kpis)
+[Artículo: Tipos de dashboards o cuadros de mandos. ZEUS](http://datablog.zeus.vision/2017/09/21/tipos-de-dashboard-cuadros-de-mando/)
+[Artículo:  Concepto de Dashboard. NeoAttack](https://neoattack.com/neowiki/dashboard/)
+[Artículo: ¿Qué es un dashboard? . ZEUS](http://datablog.zeus.vision/2017/05/16/que-es-un-dashboard/)
+[Artículo: Indicadores de gestión ¿Qué es un KPI?](https://robertoespinosa.es/2016/09/08/indicadores-de-gestion-que-es-kpi/)
+[Freelance. Wikipedia](https://es.wikipedia.org/wiki/Freelance)
+[Artículo. Evaluando tu negocio freelancer utilizando indicadores clave de rendimiento (KPIs). Freelancermap](https://www.freelancermap.com/freelancer-tips/es/10876-evaluando-tu-negocio-freelancer-utilizando-indicadores-clave-de-rendimiento-kpis)
 
 
 
