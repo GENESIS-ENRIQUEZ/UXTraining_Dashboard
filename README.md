@@ -263,7 +263,7 @@ Se realizó un card sorting con la usuaria para que eligiera el color y tipograf
 
 **Master Graphic**
 
-![Master Graphic](https://i.ibb.co/wCQ8bJP/Burger-Queen-Dashboard-2.jpg)
+![Master Graphic](https://i.ibb.co/2WL81S0/Master-Graphic-Board.jpg)
 
 **Arquitectura de la información**
 
