@@ -303,9 +303,18 @@ No le gustan las historias clínicas, por lo que la información del paciente de
 
 ## Prototipo de alta fidelidad
 
+![Dashboard 1](https://i.ibb.co/Wx80ZqT/Captura-de-pantalla-2019-05-07-a-la-s-22-53-42.png)
+![Dashboard 2](https://i.ibb.co/PhGgVF3/Captura-de-pantalla-2019-05-07-a-la-s-22-55-44.png)
+
 ## Testing
 
+Con base en el testing con la usuaria, se realizaron los siguientes cambios:
+* Color de tipografía
+* Se agregaron algunas secciones al apartado de pacientes como: asistencia, costo de la terapia, fecha de inicia y fecha meta de la terapia.
+
 ## Iteración
+
+Puedes consultar el prototipo interactivo [aquí](https://www.figma.com/file/ab8ecyKBKaaZZ67MHwJDNYiM/Dashboard-for-freelance?node-id=7%3A2)
 
 ## Presentación
 
